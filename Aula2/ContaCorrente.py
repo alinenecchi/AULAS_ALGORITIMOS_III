@@ -65,6 +65,7 @@ class ContaComum(Conta):
     def imprimeConta (self):
         print ("Conta Comum.")
         print ("Conta:", self.codigo)
+        
 def relatorio (lC):
     print("Relatorio de Contas")
     if lC == []:# lC listaContas
