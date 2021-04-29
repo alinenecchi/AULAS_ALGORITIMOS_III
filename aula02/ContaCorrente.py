@@ -148,7 +148,7 @@ def depositar (lC, codigo, valor):
 ####################################
 ## Programa vira' a partir daqui ###
 ####################################
- 
+
 lC = []
  
 print ("Seja bem vindo ao Banco xxxx")
