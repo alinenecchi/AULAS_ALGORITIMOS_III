@@ -22,10 +22,8 @@ class Lampada:
     def status(self):
         if self.carga == 0:
             return "APAGADA"
-            print("APAGADA" )
-        elif self.carga  == 1:
+        else:
             return "LIGADA"
-            print("LIGADA")
     
     
 lampada = Lampada()
