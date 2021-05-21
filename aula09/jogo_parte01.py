@@ -5,7 +5,7 @@ y = 300
 velocidade = 10
 
 fundo = pygame.image.load('img/pista.png')
-carro = pygame.image.load('img/carromenor.png')
+carro = pygame.image.load('img/carro01.png')
 
 janela = pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Criando jogo com Python")
